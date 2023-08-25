@@ -39,7 +39,7 @@ Nesse projeto, realizado em parceria com a equipe da Rocketseat, podemos marcar 
 
 Utilizamos conceitos de SPA, trabalhamos com tabelas no HTML, classes e herança no JS, Promessas com Async Await, trabalhamos com try / catch / throw...
 
-[Visite o projeto online] (https://fabiano2022.github.io/Projeto-12-Biscoito-da-Sorte/) 
+[Visite o projeto online] (https://fabiano2022.github.io/GITFAV/) 
 
 
 ## :memo: Licença
