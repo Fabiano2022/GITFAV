@@ -19,6 +19,10 @@ Projeto desenvolvido em parceria com o curso Explorer da Rocketseat.
 
 <br>
 
+<div align="center">
+<img src="https://github.com/Fabiano2022/GITFAV/assets/115079000/f9ae5684-d200-40a8-a41b-bff98a9cabe5" width="600px" />
+</div>
+
 
 ## 🚀 Tecnologias
 
