@@ -20,7 +20,6 @@ Projeto desenvolvido em parceria com o curso Explorer da Rocketseat.
 <br>
 
 
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
